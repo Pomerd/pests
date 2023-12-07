@@ -1,5 +1,7 @@
 # pests.py - Python'daki basit zararlılar
 
+## TAMAMEN AÇIK KAYNAK KODLUDUR
+
 ## Pests Nedir?
 Pests temel olarak iş parçacıklı sunucuları etkileyen bir HTTP Hizmet Reddi saldırısıdır. Bu şekilde çalışır:
 
