@@ -66,6 +66,3 @@ argümanlar. Güncel bir yardım belgesi almak için şunu çalıştırın:
 * * İstekler için HTTPS kullanın
 * --sleeptime
 * * Gönderilen her başlık arasında uyku süresi
-
-## Lisans
-Kod MIT Lisansı kapsamında lisanslanmıştır.
